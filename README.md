@@ -1,10 +1,3 @@
-- 👋 Hi, I’m @RyanB20
-- 👀 I’m interested in crypto as well as digital marketing
-- 🌱 I’m currently learning data analytics and decentralized finance
-- 💞️ I’m looking to collaborate on new job opportunities
+- 👋 Hi, I’m Ryan 
+- 👀 I’m passionate about growth marketing. My coding skills are still very basic, but I am facinated by Python and SQL. Data analytics is at the heart of growth marketing so I want to learn everything I can about it. 
 - 📫 How to reach me on LinkedIn https://www.linkedin.com/in/ryanlbarrett/
-
-<!---
-RyanB20/RyanB20 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
